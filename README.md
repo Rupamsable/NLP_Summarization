@@ -6,7 +6,7 @@ Installation & Setup (Build from Scratch)
 
 1. Download the Repo
 
-Download zip file from here --> https://github.com/Rupamsable/NLP_Summarization/edit/main
+Download zip file from here --> https://github.com/Rupamsable/NLP_Summarization/tree/main?tab=readme-ov-file
 unzip it
 
 2. Create and Activate Virtual Environment (Recommended) (if python already installed then skip this step)
