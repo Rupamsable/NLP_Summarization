@@ -35,25 +35,8 @@ python manage.py runserver --> by default 8000 port will use
 
 Project Structure
 
-nlp_summarizer/
-├── summarizer/              # Main app
-│   ├── summarizer_logic/    # Logic for summarization
-│   │   ├── extractive.py
-│   │   ├── abstractive.py
-│   │   └── long_doc_handler.py
-│   ├── templates/summarizer/
-│   │   └── index.html
-│   ├── static/css/
-│   │   └── styles.css
-│   ├── static/js/
-│   │   └── script.js
-│   ├── forms.py
-│   ├── views.py
-│   └── urls.py
-├── media/                   # Uploaded files
-├── manage.py
-├── requirements.txt
-└── README.md
+![image](https://github.com/user-attachments/assets/6855e45f-8999-4a04-b8f8-8bcdd6fffa41)
+
 
 Backend -->
 
